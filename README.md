@@ -9,18 +9,18 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>NESSUS</b> 
+- <b>VirtualBox</b>
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Linux</b> (21H2)
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
-<img src="(https://imgur.com/d6iGOf7)" height="80%" width="80%" alt="Nessus"/>
+<img src="(https://imgur.com/sJIayWg)" height="80%" width="80%" alt="Nessus"/>
 <br />
 <br />
 

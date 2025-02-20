@@ -20,7 +20,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <p align="center">
 Launch the utility: <br/>
-![Imgur Image](https://imgur.com/sJIayWg) height="80%" width="80%" alt="Nessus"/>
+<img src="(https://imgur.com/d6iGOf7)" height="80%" width="80%" alt="Nessus"/>
 <br />
 <br />
 

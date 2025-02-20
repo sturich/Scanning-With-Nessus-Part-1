@@ -1,8 +1,6 @@
 <h1>Scanning With NESSUS Part 1</h1>
 
-<h2>Description</h2>
-
-**NESSUS Installation and Usage Guide**
+<h2>**NESSUS Installation and Usage Guide**</h2>
 
 This repository provides a comprehensive guide to installing, configuring, and using **Nessus**, a powerful vulnerability scanning tool. Nessus is widely used in cybersecurity for identifying vulnerabilities in systems, networks, and applications. This project includes step-by-step instructions for setting up Nessus on Linux and demonstrates how to run vulnerability scans, interpret results, and generate reports. 
 

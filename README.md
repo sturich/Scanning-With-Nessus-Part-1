@@ -31,7 +31,7 @@ Whether you're a beginner or an experienced security professional, this reposito
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://previews.dropbox.com/p/thumb/ACiVy221FMWZqp0SnKaJ8OW9gVZILY2dcaTu2aj5b3JjDbZeamqPDsRYUr4CBNwnZxnhN8gjU0STSlJecRwPiVzV_U_t39FG-BZLhXgjEIo9OjK8hhwDUHUSmYXlSD9tbzXwCj9MEKdldZJigYQh8Jr2eJceOAuVXTFbwlo2kALdpO3OtrBkDt1t2ahzQaT0tmrvulyCEPNoulFf1j9GXZtW7dD1ciPibltx8GpX1mwyYjLYdhbn_00N9z023c7ZxTgaK4LHUTX0UCsMgdWYa_dbdjtBp2eRe7NpjXqHxMsEFm17Fq8hvN_6f39J6yfCeGbFFIUlLAyDwJ2Zp-v7dNph/p.png" height="50%" width="50%" alt="Nessus"/>
+<img src="" height="50%" width="50%" alt="Nessus"/>
 <br />
 <br />
 

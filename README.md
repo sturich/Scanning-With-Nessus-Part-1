@@ -22,7 +22,6 @@ Whether you're a beginner or an experienced security professional, this reposito
 - A valid Nessus license (Free or Professional)
 - Basic knowledge of networking and cybersecurity
 <br />
-
 <h2>Languages and Utilities Used</h2>
 
 - <b>NESSUS</b> 

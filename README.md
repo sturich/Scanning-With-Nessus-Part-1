@@ -21,14 +21,7 @@ Whether you're a beginner or an experienced security professional, this reposito
 ### Prerequisites:
 - A valid Nessus license (Free or Professional)
 - Basic knowledge of networking and cybersecurity
-
-### Getting Started:
-1. Clone this repository
-2. Follow the installation guide
-3. Configure and run your first vulnerability scan
-
 <br />
-
 
 <h2>Languages and Utilities Used</h2>
 

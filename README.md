@@ -29,7 +29,7 @@ Whether you're a beginner or an experienced security professional, this reposito
 
 <h2>Environments Used </h2>
 
-- <b>Linux</b> (21H2)
+- <b>Linux</b>
 
 <h2>Program walk-through:</h2>
 

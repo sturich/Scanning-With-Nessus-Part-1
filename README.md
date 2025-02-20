@@ -3,7 +3,30 @@
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+
+**NESSUS Installation and Usage Guide**
+
+This repository provides a comprehensive guide to installing, configuring, and using **Nessus**, a powerful vulnerability scanning tool. Nessus is widely used in cybersecurity for identifying vulnerabilities in systems, networks, and applications. This project includes step-by-step instructions for setting up Nessus on various platforms (Linux, Windows, macOS) and demonstrates how to run vulnerability scans, interpret results, and generate reports. 
+
+Whether you're a beginner or an experienced security professional, this repository will help you harness the full potential of Nessus to enhance your security testing and vulnerability management workflows.
+
+### Features:
+- Detailed installation instructions for multiple platforms
+- Configuration tips for optimal Nessus performance
+- Instructions for launching and configuring vulnerability scans
+- Guidance on analyzing and interpreting scan results
+- Best practices for scheduling and automating scans
+- Troubleshooting tips for common issues
+
+### Prerequisites:
+- A valid Nessus license (Free or Professional)
+- Basic knowledge of networking and cybersecurity
+
+### Getting Started:
+1. Clone this repository
+2. Follow the installation guide based on your platform
+3. Configure and run your first vulnerability scan
+
 <br />
 
 

@@ -31,7 +31,7 @@ Whether you're a beginner or an experienced security professional, this reposito
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://www.dropbox.com/scl/fi/75gjzvdw5jpkw89qzjwxg/2025-02-20-Screenshot-at-18.46.30.png?rlkey=g74r32fmgnty0mee13mbr9657&st=z1y97jma&dl=0" height="50%" width="50%" alt="Nessus"/>
+<img src="https://www.dropbox.com/scl/fi/82vfx5yj6rg2seykyl4tk/Picture1.png?rlkey=wae0ipmdcd9exkgup9rgxqtvg&st=yzj0gtk9&dl=0" height="50%" width="50%" alt="Nessus"/>
 <br />
 <br />
 

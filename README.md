@@ -1,7 +1,5 @@
 <h1>Scanning With NESSUS Part 1</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 
 **NESSUS Installation and Usage Guide**

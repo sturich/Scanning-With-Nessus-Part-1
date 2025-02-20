@@ -6,7 +6,7 @@
 
 **NESSUS Installation and Usage Guide**
 
-This repository provides a comprehensive guide to installing, configuring, and using **Nessus**, a powerful vulnerability scanning tool. Nessus is widely used in cybersecurity for identifying vulnerabilities in systems, networks, and applications. This project includes step-by-step instructions for setting up Nessus on various platforms (Linux, Windows, macOS) and demonstrates how to run vulnerability scans, interpret results, and generate reports. 
+This repository provides a comprehensive guide to installing, configuring, and using **Nessus**, a powerful vulnerability scanning tool. Nessus is widely used in cybersecurity for identifying vulnerabilities in systems, networks, and applications. This project includes step-by-step instructions for setting up Nessus on Linux and demonstrates how to run vulnerability scans, interpret results, and generate reports. 
 
 Whether you're a beginner or an experienced security professional, this repository will help you harness the full potential of Nessus to enhance your security testing and vulnerability management workflows.
 
@@ -14,7 +14,7 @@ Whether you're a beginner or an experienced security professional, this reposito
 - Detailed installation instructions for multiple platforms
 - Configuration tips for optimal Nessus performance
 - Instructions for launching and configuring vulnerability scans
-- Guidance on analyzing and interpreting scan results
+- Guidance on analysing and interpreting scan results
 - Best practices for scheduling and automating scans
 - Troubleshooting tips for common issues
 
@@ -24,7 +24,7 @@ Whether you're a beginner or an experienced security professional, this reposito
 
 ### Getting Started:
 1. Clone this repository
-2. Follow the installation guide based on your platform
+2. Follow the installation guide
 3. Configure and run your first vulnerability scan
 
 <br />

@@ -1,4 +1,4 @@
-<h1>Scanning With NESSUS Part 1</h1>
+<h1>Scanning With NESSUS</h1>
 
 <h2>**NESSUS Installation and Usage Guide**</h2>
 
